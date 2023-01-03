@@ -12,6 +12,7 @@ Scenario 2: Validation the Team RCB as at least one wicket keeper Test
 * open Git command line
 * Git init  --Initialize 
 * Git Clone GitURL  -- Clone automation to Local Repository 
-* Open Eclipse ->File ->Import -> Git-> Projects from Git-> Existing local repository
+* Approach 1 - Open Eclipse ->File ->Import -> Git-> Projects from Git-> Existing local repository->Select file -> import as general project
+* Approach 2 - Open Eclipse ->File ->Import -> Git-> rojects from Git-> Clone URI()
 
 

@@ -1,0 +1,9 @@
+<suite name = "RCB suite">
+	<test name = "Test" >
+		<parameter name = "JSONPathExtratorCountry" value = "$.player[*].country"/>
+        <parameter name = "JSONPathExtratorRole" value = "$.player[*].role"/>  
+			<classes>
+				<class name ="com.testvagrant.tests.CricketTeamMemberValidation"/>
+			</classes>	
+	</test>	
+</suite>		
